@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/geolonia-holon/static/css/main.67921584.chunk.css",
-    "main.js": "/geolonia-holon/static/js/main.5321d34c.chunk.js",
-    "main.js.map": "/geolonia-holon/static/js/main.5321d34c.chunk.js.map",
+    "main.js": "/geolonia-holon/static/js/main.87ab6859.chunk.js",
+    "main.js.map": "/geolonia-holon/static/js/main.87ab6859.chunk.js.map",
     "runtime-main.js": "/geolonia-holon/static/js/runtime-main.dd62f66f.js",
     "runtime-main.js.map": "/geolonia-holon/static/js/runtime-main.dd62f66f.js.map",
     "static/js/2.78fb93eb.chunk.js": "/geolonia-holon/static/js/2.78fb93eb.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.dd62f66f.js",
     "static/js/2.78fb93eb.chunk.js",
     "static/css/main.67921584.chunk.css",
-    "static/js/main.5321d34c.chunk.js"
+    "static/js/main.87ab6859.chunk.js"
   ]
 }
