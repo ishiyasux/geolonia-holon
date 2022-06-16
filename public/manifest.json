@@ -1,6 +1,6 @@
 {
-  "short_name": "Geolonia PWA",
-  "name": "Geolonia PWA",
+  "short_name": "ホロンPWAマップ",
+  "name": "ホロンPWAマップ",
   "icons": [
     {
       "src": "manifest-icon-192.maskable.png",
